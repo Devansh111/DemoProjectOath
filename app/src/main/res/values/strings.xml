@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoProjectOath</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_webview_news">Webview_news</string>
+</resources>
